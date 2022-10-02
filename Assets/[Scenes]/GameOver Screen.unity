@@ -282,6 +282,7 @@ PrefabInstance:
       propertyPath: m_text
       value: '1.Menu
 
+
         2.Game'
       objectReference: {fileID: 0}
     - target: {fileID: 3695194959673196049, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
@@ -300,9 +301,37 @@ PrefabInstance:
       propertyPath: m_fontColor32.rgba
       value: 4278585087
       objectReference: {fileID: 0}
+    - target: {fileID: 4195348709897537279, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_Name
+      value: Game Over
+      objectReference: {fileID: 0}
+    - target: {fileID: 4257717295720920532, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4257717295720920532, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 1259
+      objectReference: {fileID: 0}
     - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
       propertyPath: m_text
       value: Game Over
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_fontSize
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_margin.w
+      value: -295.19482
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_margin.x
+      value: -110.632416
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_margin.z
+      value: -143.38336
       objectReference: {fileID: 0}
     - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
       propertyPath: m_fontColor.b
@@ -317,8 +346,24 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
       propertyPath: m_fontColor32.rgba
       value: 4278190335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5494608617130491620, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_Name
+      value: Menu or Game
+      objectReference: {fileID: 0}
+    - target: {fileID: 7481041194514556384, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7481041194514556384, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -16
       objectReference: {fileID: 0}
     - target: {fileID: 8490242247860759847, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
       propertyPath: m_Pivot.x

@@ -286,6 +286,61 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 3695194959673196049, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_text
+      value: '1. Play Game
+
+
+        2. Instructions'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4195348709897537279, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_Name
+      value: Game Title
+      objectReference: {fileID: 0}
+    - target: {fileID: 4257717295720920532, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1003.8342
+      objectReference: {fileID: 0}
+    - target: {fileID: 4257717295720920532, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 618.7343
+      objectReference: {fileID: 0}
+    - target: {fileID: 4257717295720920532, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 14.55249
+      objectReference: {fileID: 0}
+    - target: {fileID: 4257717295720920532, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 973.79956
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_text
+      value: 'Last Line: Tank Rush'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_fontSize
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470728188555491121, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 5494608617130491620, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_Name
+      value: Menu Selection
+      objectReference: {fileID: 0}
+    - target: {fileID: 7481041194514556384, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 713.798
+      objectReference: {fileID: 0}
+    - target: {fileID: 7481041194514556384, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 4.6207
+      objectReference: {fileID: 0}
+    - target: {fileID: 7481041194514556384, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 54
+      objectReference: {fileID: 0}
     - target: {fileID: 8490242247860759847, guid: 330414abcabc94c4084257deafdbfff6, type: 3}
       propertyPath: m_Pivot.x
       value: 0
