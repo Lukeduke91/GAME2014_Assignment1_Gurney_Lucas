@@ -1,7 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
+    BackgroundBehaviour.cs
+    Lucas Gurney 
+    101313633
+    October 2 2022 
+    This program Makes the background move down and pop back up continuously 
+ */
 public class BackgroundBehaviour : MonoBehaviour
 {
     public float verticalSpeed;

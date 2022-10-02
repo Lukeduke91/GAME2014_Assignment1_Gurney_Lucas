@@ -2,6 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+    EnemyBehaviour.cs
+    Lucas Gurney 
+    101313633
+    October 2 2022 
+    This program Creates a Enemy behaviour that moves left and right 
+ */
 public class EnemyBehaviour : MonoBehaviour
 {
     public Boundary horizontalBoundary;

@@ -4,9 +4,11 @@ using UnityEditor;
 using UnityEngine;
 
 /*
-    The
-Source file name, Author’s name, Student Number, Date last Modified, Program
-description and Revision History
+    PlayerBehaviour.cs
+    Lucas Gurney 
+    101313633
+    October 2 2022 
+    This program Helps the player be able to move left and right via Keyboards, or mobile input
  */
 
 public class PlayerBehaviour : MonoBehaviour
